@@ -1,0 +1,24 @@
+{
+"products" : [
+{"id":1,"name":"Coyote","category":"Aquamarine"},
+{"id":2,"name":"Richardson's ground squirrel","category":"Turquoise"},
+{"id":3,"name":"Pronghorn","category":"Teal"},
+{"id":4,"name":"Owl, white-browed","category":"Goldenrod"},
+{"id":5,"name":"Least chipmunk","category":"Mauv"},
+{"id":6,"name":"Southern sea lion","category":"Mauv"},
+{"id":7,"name":"Macaw, blue and yellow","category":"Blue"},
+{"id":8,"name":"Spotted hyena","category":"Green"},
+{"id":9,"name":"African bush squirrel","category":"Crimson"},
+{"id":10,"name":"Indian tree pie","category":"Turquoise"},
+{"id":11,"name":"Pig-tailed macaque","category":"Maroon"},
+{"id":12,"name":"Vulture, white-headed","category":"Aquamarine"},
+{"id":13,"name":"Lizard, mexican beaded","category":"Maroon"},
+{"id":14,"name":"Yellow-billed stork","category":"Blue"},
+{"id":15,"name":"Goose, canada","category":"Fuscia"},
+{"id":16,"name":"Baboon, yellow","category":"Green"},
+{"id":17,"name":"White spoonbill","category":"Red"},
+{"id":18,"name":"White-fronted capuchin","category":"Maroon"},
+{"id":19,"name":"Carpet python","category":"Red"},
+{"id":20,"name":"Racer, blue","category":"Indigo"}
+]
+}
